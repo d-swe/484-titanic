@@ -18,7 +18,8 @@ algorithm used for its high accuracy and prevention of overfitting with minimal 
 
 Logistic Regression : 
 
-Naive Bayes : Algorithm used for its simplicity and efficiency
+Naive Bayes : 
+Algorithm used for its simplicity and efficiency
 
 Preprocessing :
 
