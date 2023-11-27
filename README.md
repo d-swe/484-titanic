@@ -14,6 +14,9 @@ K-Nearest Neighbors (KNN) : simple algorithm to predict labels based on calculat
 Principal Component Analysis (PCA) : \
 Reduce dimensionality and improve model performance for KNN model.
 
+Decision Tree\
+a model that divides a dataset into branches to represent a series of decision points, leading to a set of conclusions or classifications based on input variables.
+
 Random Forest : \
 algorithm used for its high accuracy and prevention of overfitting with minimal data preprocessing.
 
