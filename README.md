@@ -8,7 +8,16 @@ DataSet :\
 train.csv : provided training dataset\
 test.csv : provided test dataset for predictions
 
+Dependencies :\
+install scikit-learn\
+install numpy scipy\
+install pandas\
+install numpy\
+install matplotlib\
+install seaborn
+
 Algorithms used :\
+
 K-Nearest Neighbors (KNN) : simple algorithm to predict labels based on calculated distances between neighbors.
 
 Principal Component Analysis (PCA) : \
