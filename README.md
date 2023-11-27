@@ -18,6 +18,8 @@ Random Forest : \
 algorithm used for its high accuracy and prevention of overfitting with minimal data preprocessing.
 
 Logistic Regression : 
+Algorithm used for binary classification to accurately give predictions on survivability.
+
 
 Naive Bayes : 
 Algorithm used for its simplicity and efficiency
